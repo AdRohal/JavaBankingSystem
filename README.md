@@ -12,7 +12,7 @@ This Java project implements a basic banking system with different account types
 ### 2. Paying Account (`CompteP`)
 
 - Inherits from `CompteB` with additional fee deduction on deposits.
-- Ideal for accounts with payment features.
+- Ideal for accounts with payment features. 
 
 ### 3. Interest-bearing Account (`CompteE`)
 
